@@ -3,3 +3,46 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#header{
+ text-align: center;
+}
+
+nav {
+  text-align: center;
+ 
+}
+ 
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: blanchedalmond;
+}
+ 
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+#featured-property {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.par {
+  margin-left: 30%;
+  margin-right: 30%;
+  text-align: center;
+  margin-top: 10px;
+
+}
+#details div{
+  float: left;
+  text-align: center;
+  width: 25%;
+  background-color: red;
+}
